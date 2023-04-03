@@ -1,4 +1,4 @@
-👋 Oh Hey, Welcome!
+👋 Oh Hi, Welcome!
 
 I’m currently participating in the She Codes Plus Program and learning to HTML, CSS, Python, Django, JavaScript, React and REST.
 
